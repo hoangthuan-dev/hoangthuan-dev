@@ -48,6 +48,7 @@
 - 💼 [GitHub](https://github.com/hoangthuan-dev)
 - 📧 Email: hoangthuan.dev@gmail.com
 - 📱 Facebook: [@nguyenhoangthuan.nht](https://facebook.com/nguyenhoangthuan.nht)
+- ![Hugging Face](https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg):[Hugging Face](https://huggingface.co/hoangthuandev)
 
 ---
 
